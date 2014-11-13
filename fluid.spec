@@ -1,6 +1,6 @@
 Summary:	Fluid modules for QtQuick applications
 Name:		fluid
-Version:	0.2.0
+Version:	0.3.0
 Release:	1
 License:	LGPLv2+
 Group:		Graphical desktop/Other

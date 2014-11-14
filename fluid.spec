@@ -30,5 +30,6 @@ Fluid modules for QtQuick applications.
 %makeinstall_std -C build
 
 %files
-%{_libdir}/hawaii/qml/FluidExtra
-%{_libdir}/hawaii/qml/FluidUi
+%dir %{_libdir}/hawaii/qml/Fluid
+%{_libdir}/hawaii/qml/Fluid/*
+

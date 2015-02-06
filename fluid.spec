@@ -1,7 +1,7 @@
 Summary:	Fluid modules for QtQuick applications
 Name:		fluid
 Version:	0.3.0
-Release:	2
+Release:	3
 License:	LGPLv2+
 Group:		Graphical desktop/Other
 URL:		http://www.maui-project.org

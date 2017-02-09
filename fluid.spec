@@ -24,7 +24,7 @@ BuildRequires:	cmake(Qt5QuickControls2)
 Components for Qt Quick applications with Material Design and Universal
 
 %package -n	%{libname}
-Summary:	Library for accessing USB devices
+Summary:	Library for %{name}
 Group:		System/Libraries
 
 %description -n	%{libname}

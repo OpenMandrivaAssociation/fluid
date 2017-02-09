@@ -11,6 +11,7 @@ Group:		Graphical desktop/Other
 URL:		https://github.com/lirios
 Source0:	https://github.com/lirios/fluid/releases/download/v%{version}/%{name}-%{version}.tar.xz
 BuildRequires:	cmake
+BuildRequires:	git
 BuildRequires:	extra-cmake-modules
 BuildRequires:	qt5-devel
 BuildRequires:	cmake(Qt5Svg)
